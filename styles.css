@@ -1,0 +1,46 @@
+#calculator {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#expression {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#graph {
+  width: 700px;
+  height: 700px;
+  margin-bottom: 20px;
+}
+
+.button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+
+.grid-line {
+  stroke: #eee;
+}
+
+.axis-line {
+  stroke: #000;
+}
+
+.axis-label {
+  fill: #000;
+  font-size: 12px;
+}
+
+.graph-line {
+  stroke: #f00;
+  stroke-width: 2px;
+}
+
+.zoom-btn {
+  padding: 5px 10px;
+  margin: 10px;
+}
